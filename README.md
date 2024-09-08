@@ -1,5 +1,5 @@
 ## Hi there is Qinghan Yu's GitHub!👋
-- 🔭 I’m a student on Soochow University(PRC).
+- 🎓 I’m a student on Soochow University(PRC).
 - 🌱 I’m currently learning computational chemistry.
 - 💬 Ask me about Molecular Dynamic.
 - 📫 How to reach me: go to [my personal homepage](https://ternity.github.io/) and find my email.
