@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there is Qinghan Yu's GitHub!👋
+- 🔭 I’m a student on Soochow University(PRC).
+- 🌱 I’m currently learning computational chemistry.
+- 💬 Ask me about Molecular Dynamic.
+- 📫 How to reach me: go to [my personal homepage](https://ternity.github.io/) and find my email.
+- ⚡ Fun fact: bike, computer, GPU, HPC, tennis and so on.
+
+
 
 <!--
 **Ternity/Ternity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
