@@ -6,6 +6,8 @@
 - ⚡ Fun fact: bike, computer, GPU, HPC, tennis and so on.
 
 
+## Personal Homepage QR code:
+![personal_web_site](https://github.com/user-attachments/assets/1fa1174b-0bc1-4122-8b46-c4597b59ea85)
 
 <!--
 **Ternity/Ternity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
