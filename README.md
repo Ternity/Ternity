@@ -5,6 +5,8 @@
 - 📫 How to reach me: go to [my personal homepage](https://ternity.github.io/) and find my email.
 - 😍 Interests: Bike, Computer, GPU, HPC, Tennis🎾, Badminton🏸, OST🎶, Wood product craftsmanship🪵 and so on.
 
+!Your GitHub stats
+!Badge
 
 ## Personal Homepage QR code:
 ![personal_web_site](https://github.com/user-attachments/assets/1fa1174b-0bc1-4122-8b46-c4597b59ea85)
