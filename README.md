@@ -7,6 +7,12 @@
 ## About My Github
 ![Ternity's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ternity&show_icons=true&theme=tokyonight) <br>
 
+## Motto
+No man ever steps in the same river twice.
+<br>人生没有固定的终点，只有不断流淌的河流。
+<p align="right">--Heraclitus</p>
+
+
 <!--
 **Ternity/Ternity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
