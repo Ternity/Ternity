@@ -5,7 +5,7 @@
 - 📫 How to reach me: go to [my personal homepage](https://ternity.github.io/) and find my email.
 - 😍 Interests: Bike, Computer, GPU, HPC, Tennis🎾, Badminton🏸, OST🎶, Wood product craftsmanship🪵 and so on.
 ## About My Github
-![Ternity's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ternity&show_icons=true&theme=tokyonight) <br>
+![Ternity's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ternity&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent) <br>
 
 ## Motto
 No man ever steps in the same river twice.
